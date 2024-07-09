@@ -13,7 +13,7 @@ filelock==3.12.0                          --hash=sha512:f1eddc9397b7c07f6a360b05
                                           --hash=sha512:4bd5d9df76499e2a4f9dd9274fcc8bd507813446fa8e5852cef6c674d34d3db2313e4b79ac98eae07d6a9fe953de4ee6390baa4c9d5ab6a005c96324dd5904e8
 importlib-metadata==6.5.0                 --hash=sha512:90e6f30282f0cd47a7dd1e489cbfc47725c484ccc87392930bccdb0537139c8291714c5125c74d5819facd36476b95bf3e4f4ebe238ee6ad8816f93095d3d8de \
                                           --hash=sha512:c581ff46d601a239ba9e83114a18b1fc5c0245c215752b8313624fbef6b441eac7cebd4e021d09f12d26ba30715b99475eeeb66befc49bcd609f1b53b79f9bfd
-zipp==3.15.0                              --hash=sha512:ac96786e5d35882e0c5b724794329c9125c2b86ae7847f17acfc49f0d294312c6afc1c3f248655de3f0ccb4ca426d7957d02ba702f4a15e9fcd7e2c314e72c19 \
+zipp==3.19.1                              --hash=sha512:ac96786e5d35882e0c5b724794329c9125c2b86ae7847f17acfc49f0d294312c6afc1c3f248655de3f0ccb4ca426d7957d02ba702f4a15e9fcd7e2c314e72c19 \
                                           --hash=sha512:74a512428fa29e284c515a7e6c45030e4d840727e12e376bca480a90b7fd1e111462deafa372ca9aebd9f53c24bc37111570e7a4a6a873c0b7dee9a0277c100d
 platformdirs==3.2.0                       --hash=sha512:85989efb26079ae10429a6a1d4cc23cbba8dd518b0fd8cefad3f1fc15a9d10b28442ebe7729e3acb9f79c3075d8968333473a95e64c17e5b0115038e26693019 \
                                           --hash=sha512:2e4613f563b7014b526e1f81f561726a0060983b0e998ce46d070b2f4f4ec26ad46d6a3cd242fb14a420e6439207b9c9eeb31daac7ec65005abc3a74131e5cf8
