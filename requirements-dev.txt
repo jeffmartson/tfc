@@ -73,7 +73,7 @@ certifi>=2022.12.7
 charset-normalizer==2.1.1
 idna>=3.4
 urllib3>=1.26.15
-setuptools>=67.7.0
+setuptools>=70.0.0
 
 # Stem (Connects to Tor and manages Onion Services)
 stem>=1.8.1
